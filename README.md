@@ -20,4 +20,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/rampantvoid/rampantvoid/blob/output/github-contribution-grid-snake.svg)
