@@ -21,7 +21,7 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/rampantvoid/rampantvoid/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/rampantvoid/rampantvoid/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
