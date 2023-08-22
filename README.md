@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=rampantvoid&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rampantvoid&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rampantvoid&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" height="250" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"  />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rampantvoid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -19,13 +20,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/rampantvoid/rampantvoid/output/github-snake-dark.svg" alt="Snake animation" />
 
-###
+
 
