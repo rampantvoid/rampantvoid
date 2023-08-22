@@ -18,4 +18,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+![snake gif](https://github.com/rampantvoid/rampantvoid/blob/output/github-contribution-grid-snake.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
