@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Mg3qVWe9Ofyet9ZOuAims3syTZgLnABkWw&usqp=CAU"  />
+  <img height="" src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif"  />
 </div>
 
 ## 🌐 Socials:
