@@ -10,8 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rampantvoid&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rampantvoid&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rampantvoid&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img align="right" height="250" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"  />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rampantvoid&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rampantvoid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
