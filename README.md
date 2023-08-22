@@ -20,7 +20,6 @@
 
 ###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/rampantvoid/rampantvoid/output/snake.svg" alt="Snake animation" />
 
